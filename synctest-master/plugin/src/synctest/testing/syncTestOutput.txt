@@ -1,0 +1,105 @@
+-----------VARS-----------
+BASE_DIR: /home/katarn/Documents/synctest/account
+PATH_TO_SRC: /home/katarn/Documents/synctest/account/src
+PATH_TO_TST: /home/katarn/Documents/synctest/account/tests
+PATH_TO_OUT: /home/katarn/Documents/synctest/account/out
+LOOP_COUNT : 10
+SLEEP AMNT : 0.6
+--------------------------
+Running: Test100
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Passed
+Execution 5/10: Passed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Passed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test100 Completed
+Running: Test10
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Passed
+Execution 5/10: Passed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Passed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test10 Completed
+Running: Test10K
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Passed
+Execution 5/10: Passed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Failed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test10K Completed
+Running: Test15K
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Failed
+Execution 5/10: Passed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Passed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test15K Completed
+Running: Test1K
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Failed
+Execution 5/10: Passed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Failed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test1K Completed
+Running: Test2
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Passed
+Execution 5/10: Passed
+Execution 6/10: Failed
+Execution 7/10: Passed
+Execution 8/10: Failed
+Execution 9/10: Deadlocked
+Execution 10/10: Deadlocked
+Test2 Completed
+Running: Test50K
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Passed
+Execution 5/10: Passed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Passed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test50K Completed
+Running: Test5K
+Execution 1/10: Passed
+Execution 2/10: Passed
+Execution 3/10: Passed
+Execution 4/10: Passed
+Execution 5/10: Failed
+Execution 6/10: Passed
+Execution 7/10: Passed
+Execution 8/10: Passed
+Execution 9/10: Passed
+Execution 10/10: Passed
+Test5K Completed
+all tests finished
